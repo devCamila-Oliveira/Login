@@ -1,0 +1,14 @@
+#titulo{
+    color:black
+
+}
+body,html{
+    height: 100%;
+}
+body{
+    background-color: blanchedalmond;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
